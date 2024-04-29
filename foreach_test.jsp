@@ -21,6 +21,7 @@
 </head>
 <body>
 
+	
 	<c:forEach var="tempCity" items="${myCities}">
 	
 		${tempCity} <br>

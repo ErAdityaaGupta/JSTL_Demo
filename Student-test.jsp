@@ -10,8 +10,9 @@
 
 		data.add(new Student("Aditya","Gupta",false));
 		data.add(new Student("Anurag","Bansal",true));
-		data.add(new Student("Ravish","Singla",true));
 		data.add(new Student("Naksh","Chandna",false));
+		data.add(new Student("Ravish","Singla",true));
+		
 
 		pageContext.setAttribute("myStudents",data);
 %>
